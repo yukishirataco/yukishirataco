@@ -11,7 +11,7 @@ A software engineer working on C and Linux.
 - Have a cute catgirl OC with pantyhose and heterochromia
 - fake Rhythm Gamer(maimai dx/CHUNITHM/Ongeki/Project Sekai etc.)
 - Chinese/23 yr. old
-- zh-CN/en-US/jp-JA/ru-RU/~~ko-KR~~(Studying)
+- zh-CN/en-US(CET-6/IELTS 6.5)/jp-JA(JLPT N3)/ru-RU/~~ko-KR~~(Studying)
 - Software Enginner/Independent Python Developer
 - ~~Kiger~~(Still waiting for my Animegao Kigurumi)
 - Sensei in Kivotos/Commander in Azur Lane/Trainer in Tracen/Knight in Landosol
