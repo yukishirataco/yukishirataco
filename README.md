@@ -10,11 +10,12 @@ A software engineer working on C and Linux.
 
 - Have a cute catgirl OC with pantyhose and heterochromia
 - Also have a cute catgirl OC who is a mesugaki and oppai loli
+- Photographer Learning how to take photos
 - fake Rhythm Gamer(maimai dx/CHUNITHM/Ongeki/Project Sekai etc.)
 - Chinese/24 yr. old
-- zh-CN/en-US/jp-JA/ru-RU/~~ko-KR~~(Learning)
+- zh-CN/en-US(CET-6)/jp-JA(JLPT N3)/ru-RU/~~ko-KR~~(Learning)
 - Software Enginner/Independent Python Developer
-- Latex Kigurumi act as my OC Sakurada Yukino
+- Latex Kigurumi act as my OC Sakurada Yukino or Serina in Blue Archive
 - Sensei in Kivotos/Commander in Azur Lane/Umamusume Trainer in Tracen/Knight in Landosol
 - Electronics Fans/Obsolete Computer Fan/LazyGameReview Translator
 
@@ -52,9 +53,8 @@ I'm learning these programming languages or platforms or skills:
 ![Xiaomi Mi 13](https://img.shields.io/badge/Xiaomi%20Mi%2013-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Xiaomi Redmi K70](https://img.shields.io/badge/Xiaomi%20Redmi%20K70-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Xiaomi Redmi K60](https://img.shields.io/badge/Xiaomi%20Redmi%20K60-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
-![Xiaomi Redmi K50 Ultra](https://img.shields.io/badge/Xiaomi%20Redmi%20K50%20Ultra-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Xiaomi Redmi Note 12 Turbo](https://img.shields.io/badge/Xiaomi%20Redmi%20Note%2012%20Turbo-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
-![Xiaomi Redmi Note 12T Pro](https://img.shields.io/badge/Xiaomi%20Redmi%20Note%2012T%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
+![Xiaomi Redmi Turbo 3](https://img.shields.io/badge/Xiaomi%20Redmi%20Turbo%203-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Xiaomi Redmi Note 9 5G](https://img.shields.io/badge/Xiaomi%20Redmi%20Note%209%205G-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Xiaomi Redmi 12 5G](https://img.shields.io/badge/Xiaomi%20Redmi%2012%205G-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 
@@ -87,11 +87,10 @@ I'm learning these programming languages or platforms or skills:
 ![Redmi AirDots 4 Pro](https://img.shields.io/badge/Redmi%20AirDots%204%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 
 ### 📷 Camera
+![Canon EOS R10](https://img.shields.io/badge/Canon%20EOS%20R10-ffffff?style=flat-square&logoColor=ffffff)
 ![GoPro Hero 6 Black](https://img.shields.io/badge/GoPro%20Hero%206%20Black-000000?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADcklEQVR4AWJABqNAYt5NNgkAs/UYJTkTQGG4ezXWZ5tr27Zt27Zt27Zt2xyvbRtv5tzsyWTt/fGcTFWSqltT6IwI8Ob6N9IhAzIiE7IiJb7Hd/KD/Iif5Bf8aqCt3+VPyn/hD/jB+UzHyI+52I0TuIXrFjck2CIEQfr7qBzHCTklp3FG151oBD+z84ioj+vYg7EYjIrIiRwWLdAXPdEDI3ANNzEHndFB2qINWqOFtMFy3MVQeBoB0uIsxuG7N5yyygpeE1Fe8x1vDFXoEg6N4gSivlnn/pF4Zza2wjf8vUCnUYef4csacNpCxMBZTDYK27D6uxH+bk8fGBPsfJGnz/A8763BPES0jbAetuO4rvXhY3nGBzuxwijsw+LvhvtH1mKsjYmYpCugMmohCgFc7QG4uqA3bmIhOmGBytT7u4Q9NyrAi/IWrHRo4S2lwcjaRqE4ja3YZrFV9dznuRGHXJ4TIDWuoBuduWmq3Iyy6lPrOU9sxhqjsAvLaTCy9vAJdIY7vEwqd9b9X3g+ijECMMLASGq4Ic4jum3Oo6u+odaIB39vxNoXBWjzghXcxgyg51dg4XcjAiO/ZYB1DnMxaERmgLYvCNAWCuBvDxBuCuCmuudNgQc2YKO5C1ZpTl8/wPCwbbgUSwgTdgZ8G34RLkAnLFS5D1y0LtyN0b84wMun4IUB1LiPtp11G9aDtx6xBthsOQcUgJcwEgmR2CKh6o9rCiJwnY81OkOsQW0Hkb/tINI2VIBNWMvedOX6DXbjHq7aqX43vlVDXXAW8d/wCE+FS9jkMFcjAdy/H3HIqZGWeAnu+zvVUBwcwUZkwR/fjQA/vfI3/pX/EA0FsQuPsTFcgLf8hsiFQ7iB0+bPr5zBWTmHC7iJPThpTsF6bIDHO3zI/IZSaC5NpBEaSD3UQl49vwI7jJfXYqNxOHy0L68R/i76Ltj1WQRYjU3w/MgBlmK3Q3OxBV4fMYBx7C/Gvk8VwFX9hk3BEuyEz8cKoBM3CNOMQk+cQ8KP1LkL2uMKChoV8RGKjSiGLMghuZBH8qMACqKIFEcJlEQZKY8KqIgqUl3qYBpuoj/czFS5cQA3cP0lrtlctbmCyxaX5CIuyCG0gJ/9X/Mj0iErMiEjMiCdpEYqpERySYLESIQEEg9xEQexJIZExZOJi8+9yQSzdxQAACB6iItVr6WVAAAAAElFTkSuQmCC&logoColor=ffffff)
-![SONY NEX-5C](https://img.shields.io/badge/SONY%20NEX--5C-000000?style=flat-square&logo=sony&logoColor=ffffff)
 ![SONY ILCE-5100](https://img.shields.io/badge/SONY%20ILCE--5100-000000?style=flat-square&logo=sony&logoColor=ffffff)
 ![FUJIFILM FinePix HS33EXR](https://img.shields.io/badge/FUJIFILM%20FinePix%20HS33EXR-FB0020?style=flat-square&logo=fujifilm&logoColor=ffffff)
-![Canon EOS 7D](https://img.shields.io/badge/Canon%20EOS%207D-ffffff?style=flat-square&logoColor=ffffff)
 ![Panasonic Lumix GF2](https://img.shields.io/badge/Panasonic%20Lumix%20GF2-ffffff?style=flat-square&logoColor=ffffff)
 
 ### 🖥️ Computers
@@ -100,7 +99,7 @@ I'm learning these programming languages or platforms or skills:
 ![Asus GL553VD](https://img.shields.io/badge/Asus%20ROG%20GL553VD-000000?style=flat-square&&logo=asus&logoColor=ffffff)
 
 ### 📶 Routers/Switches/Wi-Fi/ONU
-![TP-LINK XDR5410](https://img.shields.io/badge/TP--LINK%20XDR5410-4ACBD6?style=flat-square&&logo=tp-link&logoColor=ffffff)
+![TP-LINK 7DR5160](https://img.shields.io/badge/TP--LINK%207DR5610-4ACBD6?style=flat-square&&logo=tp-link&logoColor=ffffff)
 ![ZTE ZXHN E1630](https://img.shields.io/badge/ZTE%20ZXHN%20E1630-FFFFFF?style=flat-square&&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA2ElEQVR4AWKAglEAYHssgRoMwwC8o+DuJHrB+uGQ6BF6v8Ot4tIT2gsyjUvTb2Xu7lv/98w1PK/ro+UVHLJHoUfn0O9wC2HZg8gT88I1/i86Ak7QNA4YJTkLi9gSHGCPwD4U/Xn0HEiwBb3EBjtdIgdD3RdLEGrIZ/A30EPQ1dIs9ji3uG2yGsJfw482DMhSV8SJfda6nWZx1BKrD3gQPdgJ2Gy7AOe78usAzFE8WrlqF6RKTU9lySb0wEDj+VGaEmhBkR1eK/EVbG1DnQ3CYIfC9lMpDYwCAA8plQ1nzpGyAAAAAElFTkSuQmCC&logoColor=000000)
 ![ZTE ZXHN E2631](https://img.shields.io/badge/ZTE%20ZXHN%20E2631-FFFFFF?style=flat-square&&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA2ElEQVR4AWKAglEAYHssgRoMwwC8o+DuJHrB+uGQ6BF6v8Ot4tIT2gsyjUvTb2Xu7lv/98w1PK/ro+UVHLJHoUfn0O9wC2HZg8gT88I1/i86Ak7QNA4YJTkLi9gSHGCPwD4U/Xn0HEiwBb3EBjtdIgdD3RdLEGrIZ/A30EPQ1dIs9ji3uG2yGsJfw482DMhSV8SJfda6nWZx1BKrD3gQPdgJ2Gy7AOe78usAzFE8WrlqF6RKTU9lySb0wEDj+VGaEmhBkR1eK/EVbG1DnQ3CYIfC9lMpDYwCAA8plQ1nzpGyAAAAAElFTkSuQmCC&logoColor=000000)
 ![H3C Mini S8G-U](https://img.shields.io/badge/H3C%20Mini%20S8G--U-ffffff?style=flat-square&logo=data:image/png;base64,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&logoColor=ffffff)
