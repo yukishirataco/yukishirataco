@@ -15,7 +15,7 @@ A software engineer working on C and Linux.
 - Chinese/24 yr. old
 - zh-CN/en-US(CET-6)/jp-JA(JLPT N3)/ru-RU/~~ko-KR~~(Learning)
 - Software Enginner/Independent Python Developer
-- Latex Kigurumi act as my OC Sakurada Yukino or Serina in Blue Archive
+- Latex Kigurumi act as my OC Sakurada Yukino or Sumi Serina in Blue Archive
 - Sensei in Kivotos/Commander in Azur Lane/Umamusume Trainer in Tracen/Knight in Landosol
 - Electronics Fans/Obsolete Computer Fan/LazyGameReview Translator
 
@@ -53,7 +53,6 @@ I'm learning these programming languages or platforms or skills:
 ![Xiaomi Mi 13](https://img.shields.io/badge/Xiaomi%20Mi%2013-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Xiaomi Redmi K70](https://img.shields.io/badge/Xiaomi%20Redmi%20K70-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Xiaomi Redmi K60](https://img.shields.io/badge/Xiaomi%20Redmi%20K60-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
-![Xiaomi Redmi Note 12 Turbo](https://img.shields.io/badge/Xiaomi%20Redmi%20Note%2012%20Turbo-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Xiaomi Redmi Turbo 3](https://img.shields.io/badge/Xiaomi%20Redmi%20Turbo%203-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Xiaomi Redmi Note 9 5G](https://img.shields.io/badge/Xiaomi%20Redmi%20Note%209%205G-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Xiaomi Redmi 12 5G](https://img.shields.io/badge/Xiaomi%20Redmi%2012%205G-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
@@ -88,7 +87,10 @@ I'm learning these programming languages or platforms or skills:
 
 ### 📷 Camera
 ![Canon EOS R10](https://img.shields.io/badge/Canon%20EOS%20R10-ffffff?style=flat-square&logoColor=ffffff)
+![Canon EOS 500](https://img.shields.io/badge/Canon%20EOS%20500-ffffff?style=flat-square&logoColor=ffffff)
+![DJI OSMO Action 4](https://img.shields.io/badge/DJI%20OSMO%20Action%204-ffffff?style=flat-square&logoColor=ffffff)
 ![GoPro Hero 6 Black](https://img.shields.io/badge/GoPro%20Hero%206%20Black-000000?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADcklEQVR4AWJABqNAYt5NNgkAs/UYJTkTQGG4ezXWZ5tr27Zt27Zt27Zt2xyvbRtv5tzsyWTt/fGcTFWSqltT6IwI8Ob6N9IhAzIiE7IiJb7Hd/KD/Iif5Bf8aqCt3+VPyn/hD/jB+UzHyI+52I0TuIXrFjck2CIEQfr7qBzHCTklp3FG151oBD+z84ioj+vYg7EYjIrIiRwWLdAXPdEDI3ANNzEHndFB2qINWqOFtMFy3MVQeBoB0uIsxuG7N5yyygpeE1Fe8x1vDFXoEg6N4gSivlnn/pF4Zza2wjf8vUCnUYef4csacNpCxMBZTDYK27D6uxH+bk8fGBPsfJGnz/A8763BPES0jbAetuO4rvXhY3nGBzuxwijsw+LvhvtH1mKsjYmYpCugMmohCgFc7QG4uqA3bmIhOmGBytT7u4Q9NyrAi/IWrHRo4S2lwcjaRqE4ja3YZrFV9dznuRGHXJ4TIDWuoBuduWmq3Iyy6lPrOU9sxhqjsAvLaTCy9vAJdIY7vEwqd9b9X3g+ijECMMLASGq4Ic4jum3Oo6u+odaIB39vxNoXBWjzghXcxgyg51dg4XcjAiO/ZYB1DnMxaERmgLYvCNAWCuBvDxBuCuCmuudNgQc2YKO5C1ZpTl8/wPCwbbgUSwgTdgZ8G34RLkAnLFS5D1y0LtyN0b84wMun4IUB1LiPtp11G9aDtx6xBthsOQcUgJcwEgmR2CKh6o9rCiJwnY81OkOsQW0Hkb/tINI2VIBNWMvedOX6DXbjHq7aqX43vlVDXXAW8d/wCE+FS9jkMFcjAdy/H3HIqZGWeAnu+zvVUBwcwUZkwR/fjQA/vfI3/pX/EA0FsQuPsTFcgLf8hsiFQ7iB0+bPr5zBWTmHC7iJPThpTsF6bIDHO3zI/IZSaC5NpBEaSD3UQl49vwI7jJfXYqNxOHy0L68R/i76Ltj1WQRYjU3w/MgBlmK3Q3OxBV4fMYBx7C/Gvk8VwFX9hk3BEuyEz8cKoBM3CNOMQk+cQ8KP1LkL2uMKChoV8RGKjSiGLMghuZBH8qMACqKIFEcJlEQZKY8KqIgqUl3qYBpuoj/czFS5cQA3cP0lrtlctbmCyxaX5CIuyCG0gJ/9X/Mj0iErMiEjMiCdpEYqpERySYLESIQEEg9xEQexJIZExZOJi8+9yQSzdxQAACB6iItVr6WVAAAAAElFTkSuQmCC&logoColor=ffffff)
+
 ![SONY ILCE-5100](https://img.shields.io/badge/SONY%20ILCE--5100-000000?style=flat-square&logo=sony&logoColor=ffffff)
 ![FUJIFILM FinePix HS33EXR](https://img.shields.io/badge/FUJIFILM%20FinePix%20HS33EXR-FB0020?style=flat-square&logo=fujifilm&logoColor=ffffff)
 ![Panasonic Lumix GF2](https://img.shields.io/badge/Panasonic%20Lumix%20GF2-ffffff?style=flat-square&logoColor=ffffff)
