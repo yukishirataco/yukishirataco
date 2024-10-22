@@ -9,15 +9,17 @@ a.k.a Sakurada Yukino/Yukinoko chan/npfjcg etc.
 A software engineer working on C and Linux.
 
 - Have a cute catgirl OC with pantyhose and heterochromia
+
 - Also have a cute catgirl OC who is a mesugaki and oppai loli
 - Photographer Learning how to take (both film and digital) photos and record vlogs.
-- fake Rhythm Gamer(maimai dx/CHUNITHM/Ongeki/Project Sekai etc.)
+- fake Rhythm Gamer(maimai DX/CHUNITHM/Ongeki/Project Sekai etc.)
 - Chinese/24 yr. old
 - zh-CN/en-US(CET-6)/jp-JA(JLPT N3)/ru-RU/~~ko-KR~~(Learning)
 - Software Enginner/Independent Python Developer
-- Latex Kigurumi act as my OC Sakurada Yukino or Sumi Serina in Blue Archive
-- Sensei in Kivotos/Commander in Azur Lane/Umamusume Trainer in Tracen/Knight in Landosol
+- Kigurumi act as my OC Sakurada Yukino or Sumi Serina (Christmas) in Blue Archive
+- Sensei in Kivotos/Commander in Azur Lane/Umamusume Trainer in Tracen/Knight in Landosol/Producer in Gakuen Idolmaster
 - Electronics Fans/Obsolete Computer Fan/LazyGameReview Translator
+- Just return from Japan for a short trip from Kansai area to Tokyo
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=yukishirataco&hide_border=true&title_color=000&layout=compact">
 
