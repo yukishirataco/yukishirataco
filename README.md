@@ -19,7 +19,7 @@ A software engineer working on C and Linux.
 - Kigurumi act as my OC Sakurada Yukino or Sumi Serina (Christmas) in Blue Archive
 - Sensei in Kivotos/Commander in Azur Lane/Umamusume Trainer in Tracen/Knight in Landosol/Producer in Gakuen Idolmaster
 - Electronics Fans/Obsolete Computer Fan/LazyGameReview Translator
-- Just return from Japan for a short trip from Kansai area to Tokyo
+- Just return from Japan for a short trip from Kansai area to Tokyo (Next trip will in 2025 Summer!)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=yukishirataco&hide_border=true&title_color=000&layout=compact">
 
@@ -43,11 +43,10 @@ I'm learning these programming languages or platforms or skills:
 
 ## 🖥️ My Working Enviroment
 ![Windows 10 CMGE](https://img.shields.io/badge/Windows%2010%20CMGE-00adef?style=flat-square&logo=windows&logoColor=ffffff)
-![Windows 11 Pro 22H2](https://img.shields.io/badge/Windows%2011%20Pro%20Workstation%2022H2-00adef?style=flat-square&logo=windows&logoColor=ffffff)
+![Windows 11 Pro](https://img.shields.io/badge/Windows%2011%20Pro%20Workstation%2022H2-00adef?style=flat-square&logo=windows&logoColor=ffffff)
 ![Android 14](https://img.shields.io/badge/Android%2014-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
-![MIUI 14](https://img.shields.io/badge/MIUI%2014-ff6900?style=flat-square&logo=xiaomi&logoColor=ffffff)
-![HyperOS v1.0](https://img.shields.io/badge/HyperOS-2655ff?style=flat-square&logo=xiaomi&logoColor=ffffff)
-![iOS 16.1](https://img.shields.io/badge/iOS%2016.3.1-000000?style=flat-square&logo=iOS&logoColor=ffffff)
+![HyperOS v2.0](https://img.shields.io/badge/HyperOS-2655ff?style=flat-square&logo=xiaomi&logoColor=ffffff)
+![iOS 18.1](https://img.shields.io/badge/iOS%2018.1-000000?style=flat-square&logo=iOS&logoColor=ffffff)
 
 ## 💻 My Devices
 
@@ -91,7 +90,6 @@ I'm learning these programming languages or platforms or skills:
 ![Canon EOS R10](https://img.shields.io/badge/Canon%20EOS%20R10-ffffff?style=flat-square&logoColor=ffffff)
 ![Canon EOS 500](https://img.shields.io/badge/Canon%20EOS%20500-ffffff?style=flat-square&logoColor=ffffff)
 ![DJI OSMO Action 4](https://img.shields.io/badge/DJI%20OSMO%20Action%204-000000?style=flat-square&logo=DJI&logoColor=ffffff)
-![GoPro Hero 6 Black](https://img.shields.io/badge/GoPro%20Hero%206%20Black-000000?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADcklEQVR4AWJABqNAYt5NNgkAs/UYJTkTQGG4ezXWZ5tr27Zt27Zt27Zt2xyvbRtv5tzsyWTt/fGcTFWSqltT6IwI8Ob6N9IhAzIiE7IiJb7Hd/KD/Iif5Bf8aqCt3+VPyn/hD/jB+UzHyI+52I0TuIXrFjck2CIEQfr7qBzHCTklp3FG151oBD+z84ioj+vYg7EYjIrIiRwWLdAXPdEDI3ANNzEHndFB2qINWqOFtMFy3MVQeBoB0uIsxuG7N5yyygpeE1Fe8x1vDFXoEg6N4gSivlnn/pF4Zza2wjf8vUCnUYef4csacNpCxMBZTDYK27D6uxH+bk8fGBPsfJGnz/A8763BPES0jbAetuO4rvXhY3nGBzuxwijsw+LvhvtH1mKsjYmYpCugMmohCgFc7QG4uqA3bmIhOmGBytT7u4Q9NyrAi/IWrHRo4S2lwcjaRqE4ja3YZrFV9dznuRGHXJ4TIDWuoBuduWmq3Iyy6lPrOU9sxhqjsAvLaTCy9vAJdIY7vEwqd9b9X3g+ijECMMLASGq4Ic4jum3Oo6u+odaIB39vxNoXBWjzghXcxgyg51dg4XcjAiO/ZYB1DnMxaERmgLYvCNAWCuBvDxBuCuCmuudNgQc2YKO5C1ZpTl8/wPCwbbgUSwgTdgZ8G34RLkAnLFS5D1y0LtyN0b84wMun4IUB1LiPtp11G9aDtx6xBthsOQcUgJcwEgmR2CKh6o9rCiJwnY81OkOsQW0Hkb/tINI2VIBNWMvedOX6DXbjHq7aqX43vlVDXXAW8d/wCE+FS9jkMFcjAdy/H3HIqZGWeAnu+zvVUBwcwUZkwR/fjQA/vfI3/pX/EA0FsQuPsTFcgLf8hsiFQ7iB0+bPr5zBWTmHC7iJPThpTsF6bIDHO3zI/IZSaC5NpBEaSD3UQl49vwI7jJfXYqNxOHy0L68R/i76Ltj1WQRYjU3w/MgBlmK3Q3OxBV4fMYBx7C/Gvk8VwFX9hk3BEuyEz8cKoBM3CNOMQk+cQ8KP1LkL2uMKChoV8RGKjSiGLMghuZBH8qMACqKIFEcJlEQZKY8KqIgqUl3qYBpuoj/czFS5cQA3cP0lrtlctbmCyxaX5CIuyCG0gJ/9X/Mj0iErMiEjMiCdpEYqpERySYLESIQEEg9xEQexJIZExZOJi8+9yQSzdxQAACB6iItVr6WVAAAAAElFTkSuQmCC&logoColor=ffffff)
 
 ![SONY ILCE-5100](https://img.shields.io/badge/SONY%20ILCE--5100-000000?style=flat-square&logo=sony&logoColor=ffffff)
 ![FUJIFILM FinePix HS33EXR](https://img.shields.io/badge/FUJIFILM%20FinePix%20HS33EXR-FB0020?style=flat-square&logo=fujifilm&logoColor=ffffff)
