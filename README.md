@@ -13,10 +13,10 @@ A software engineer working on C and Linux.
 - Also have a cute catgirl OC who is a mesugaki and oppai loli
 - Photographer Learning how to take (both film and digital) photos and record vlogs.
 - fake Rhythm Gamer(maimai DX/CHUNITHM/Ongeki/Project Sekai etc.)
-- Chinese/24 yr. old
+- Chinese/25 yr. old
 - zh-CN/en-US(CET-6)/jp-JA(JLPT N3)/ru-RU/~~ko-KR~~(Learning)
 - Software Enginner/Independent Python Developer
-- Kigurumi act as my OC Sakurada Yukino or Sumi Serina (Christmas) in Blue Archive
+- Kigurumi act as my OC Sakurada Yukino or Sumi Serina (Christmas) or Key in Blue Archive
 - Sensei in Kivotos/Commander in Azur Lane/Umamusume Trainer in Tracen/Knight in Landosol/Producer in Gakuen Idolmaster
 - Electronics Fans/Obsolete Computer Fan/LazyGameReview Translator
 - Just return from Japan for a short trip from Kansai area to Tokyo (Next trip will in 2025 Summer!)
@@ -51,27 +51,24 @@ I'm learning these programming languages or platforms or skills:
 ## 💻 My Devices
 
 ### 📱 Smartphones
+![Xiaomi Mi 15](https://img.shields.io/badge/Xiaomi%20Mi%2015-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Xiaomi Mi 13](https://img.shields.io/badge/Xiaomi%20Mi%2013-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Xiaomi Redmi K70](https://img.shields.io/badge/Xiaomi%20Redmi%20K70-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
-![Xiaomi Redmi K60](https://img.shields.io/badge/Xiaomi%20Redmi%20K60-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
-![Xiaomi Redmi Turbo 3](https://img.shields.io/badge/Xiaomi%20Redmi%20Turbo%203-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
-![Xiaomi Redmi Note 9 5G](https://img.shields.io/badge/Xiaomi%20Redmi%20Note%209%205G-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
+![Xiaomi Redmi Turbo 4 Pro](https://img.shields.io/badge/Xiaomi%20Redmi%20Turbo%204%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Xiaomi Redmi 12 5G](https://img.shields.io/badge/Xiaomi%20Redmi%2012%205G-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 
 ![Realme Q3s](https://img.shields.io/badge/Realme%20Q3s-ffca14?style=flat-square)
 
-![HUAWEI P9](https://img.shields.io/badge/HUAWEI%20P9-ff0000?style=flat-square&logo=huawei)
 ![Honor X10](https://img.shields.io/badge/Honor%20X10-000000?style=flat-square&logo=honor)
 
 ![vivo S6](https://img.shields.io/badge/vivo%20S6-415FFF?style=flat-square&logo=vivo)
 
 ![Apple iPhone 6s](https://img.shields.io/badge/Apple%20iPhone%206s-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)
 ![Apple iPhone 13](https://img.shields.io/badge/Apple%20iPhone%2013-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)
-![Apple iPhone SE(2020)](https://img.shields.io/badge/Apple%20iPhone%20SE(2020)-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)
+![Apple iPhone 16(JP)](https://img.shields.io/badge/Apple%20iPhone%2016(JP)-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)
 
 ![OnePlus 5](https://img.shields.io/badge/OnePlus%205%20-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 
-![Google Pixel 3](https://img.shields.io/badge/Google%20Pixel%203-4285f4?style=flat-square&logo=google&logoColor=ffffff)
 ![Google Pixel 4](https://img.shields.io/badge/Google%20Pixel%204-4285f4?style=flat-square&logo=google&logoColor=ffffff)
 ![Google Pixel 4 XL](https://img.shields.io/badge/Google%20Pixel%204%20XL-4285f4?style=flat-square&logo=google&logoColor=ffffff)
 
@@ -79,19 +76,19 @@ I'm learning these programming languages or platforms or skills:
 ![Apple iPad Air 5](https://img.shields.io/badge/Apple%20iPad%20Air%205-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)
 
 ### ⌚ Watch/Wearable
+![Xiaomi Redmi Watch 5](https://img.shields.io/badge/Xiaomi%20Redmi%20Watch%205-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Huawei Watch GT 3](https://img.shields.io/badge/Huawei%20Watch%20GT%203-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)
 ![Huawei Band 6 NFC](https://img.shields.io/badge/Huawei%20Band%206%20NFC-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)
-![Xiaomi Redmi Watch 2](https://img.shields.io/badge/Xiaomi%20Redmi%20Watch%202-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Apple Watch Series 6](https://img.shields.io/badge/Apple%20Watch%20Series%206-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)
 ![Xiaomi Mi Band 7 NFC](https://img.shields.io/badge/Xiaomi%20Mi%20Band%207%20NFC-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
-![Redmi AirDots 4 Pro](https://img.shields.io/badge/Redmi%20AirDots%204%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
+![Redmi AirDots 6 Pro](https://img.shields.io/badge/Redmi%20AirDots%206%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 
 ### 📷 Camera
 ![Canon EOS R10](https://img.shields.io/badge/Canon%20EOS%20R10-ffffff?style=flat-square&logoColor=ffffff)
 ![Canon EOS 500](https://img.shields.io/badge/Canon%20EOS%20500-ffffff?style=flat-square&logoColor=ffffff)
 ![DJI OSMO Action 4](https://img.shields.io/badge/DJI%20OSMO%20Action%204-000000?style=flat-square&logo=DJI&logoColor=ffffff)
 
-![SONY ILCE-5100](https://img.shields.io/badge/SONY%20ILCE--5100-000000?style=flat-square&logo=sony&logoColor=ffffff)
+![SONY ILCE-6100](https://img.shields.io/badge/SONY%20ILCE--6100-000000?style=flat-square&logo=sony&logoColor=ffffff)
 ![FUJIFILM FinePix HS33EXR](https://img.shields.io/badge/FUJIFILM%20FinePix%20HS33EXR-FB0020?style=flat-square&logo=fujifilm&logoColor=ffffff)
 ![Panasonic Lumix GF2](https://img.shields.io/badge/Panasonic%20Lumix%20GF2-ffffff?style=flat-square&logoColor=ffffff)
 
